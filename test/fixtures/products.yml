@@ -8,3 +8,11 @@ ruby:
                 delivered fast, you should add Ruby to your toolbox.
   price:        49.50
   image_url:    ruby.png
+
+one:
+  product: two
+  cart: one
+
+two:
+  product: two
+  cart: two
